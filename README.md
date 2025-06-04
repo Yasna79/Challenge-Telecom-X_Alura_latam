@@ -1,6 +1,3 @@
-# Challenge2-Telecom-X_Alura_latam
-Análisis de evasión de clientes
-
 # 🧾 Proceso ETL y Análisis Exploratorio – Churn de Clientes | Telecom X
 
 Este repositorio contiene el desarrollo completo del proceso ETL (Extracción, Transformación y Carga) y el análisis exploratorio de los datos de churn de clientes de la empresa ficticia *Telecom X*.
