@@ -97,7 +97,7 @@ Este repositorio contiene el desarrollo completo del proceso ETL (Extracción, T
 
 ## 📌 Autor
 
-Desarrollado por: ** Yasna Perez Montenegro**  
+Desarrollado por:  Yasna Perez Montenegro  
 Repositorio base: https://github.com/Yasna79/Challenge2-Telecom-X_Alura_latam
 
 ---
